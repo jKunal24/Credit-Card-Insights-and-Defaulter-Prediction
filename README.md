@@ -13,7 +13,7 @@ The dashboard visualizes revenue and transactions for a credit card company on b
 9.No. of dependents
 
 
-The dashboard help answer questions that help higher management strategise and take crucial business decisions like : 
+The dashboard help answer questions that help higher management strategize and take crucial business decisions like : 
 1. Week on Week growth in -  revenue, No. of Customers and No. of new Customers ( Activation done in last 30 days ), No. of transactions.
 2. Which Income group and Age group contributes maximum chunk of revenue  
   **Age Group 40-50** & High Income Group with **Income> $ 70,000** **generates maximum revenue** 
