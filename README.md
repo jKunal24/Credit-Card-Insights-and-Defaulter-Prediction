@@ -18,8 +18,7 @@ The dashboard help answer questions that help higher management strategise and t
 2. Which Income group and Age group contributes maximum chunk of revenue  
   **Age Group 40-50** & High Income Group with **Income> $ 70,000** **generates maximum revenue** 
 3. What is the credibility of a customer
-   Based on **Delinquency & Utilization Ratio** , graduates, Self-Employeed people & people with card type-Blue are the ones who default on their payments more often.
-4.
-Which method do customers prefer to use their credit cards
+4. Which method do customers prefer to use their credit cards
    **67%** credit card transactions are done by **Swipe** method
 
+Based on **Delinquency & Utilization Ratio** , graduates, Self-Employeed people & people with card type-Blue are the ones who default on their payments more often.
