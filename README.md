@@ -1,6 +1,8 @@
 Credit-Card-Insights-and-Defaulter-Prediction
+
 • PowerBIdashboard that pulls user & transactions data from MySQL server for Week-on-Week growth analysis and real-time Insights into spending patterns and credibility of credit card users based on a variety of factors.
- • UsedSVMandSMOTEalgorithmstoimplement a model which could predict whether a user would default on payment with 95% accuracy and 40% recall on prediction of payment defaulters.
+
+• UsedSVMandSMOTEalgorithmstoimplement a model which could predict whether a user would default on payment with 95% accuracy and 40% recall on prediction of payment defaulters.
  
 The dashboard visualizes revenue and transactions for a credit card company on basis of multiple factors :
 1.Age
