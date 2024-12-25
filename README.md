@@ -1,6 +1,7 @@
-# Credit-Card-Insights-Dashboard
-Power BI dashboard that pulls credit card customer and transactions data from MySQL server to generate real-time insights on weekly basis for stakeholders like credit card Sales team, Strategy team and Product team.
-
+Credit-Card-Insights-and-Defaulter-Prediction
+• PowerBIdashboard that pulls user & transactions data from MySQL server for Week-on-Week growth analysis and real-time Insights into spending patterns and credibility of credit card users based on a variety of factors.
+ • UsedSVMandSMOTEalgorithmstoimplement a model which could predict whether a user would default on payment with 95% accuracy and 40% recall on prediction of payment defaulters.
+ 
 The dashboard visualizes revenue and transactions for a credit card company on basis of multiple factors :
 1.Age
 2.Location
